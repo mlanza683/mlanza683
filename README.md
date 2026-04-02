@@ -1,66 +1,71 @@
-<h1 align="center">Marinella Lanza</h1>
 <p align="center">
-Full Stack Developer · Laravel · Node.js · React
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=200&section=header&text=Marinella%20Lanza&fontSize=40&fontColor=ffffff" />
+</p>
+
+<h2 align="center">Full Stack Developer</h2>
+
+<p align="center">
+Laravel · Node.js · React · API REST · CRM · Dashboard
 </p>
 
 <p align="center">
-<a href="https://mlanza683.github.io">Portfolio</a> ·
-<a href="https://github.com/mlanza683">GitHub</a> ·
-<a href="https://www.linkedin.com/in/marinella-l-0563414b/">LinkedIn</a> ·
-<a href="mailto:lanza_marinella@libero.it">Email</a>
+<a href="https://mlanza683.github.io">🌐 Portfolio</a> ·
+<a href="https://github.com/mlanza683">💻 GitHub</a> ·
+<a href="https://www.linkedin.com/in/marinella-l-0563414b/">💼 LinkedIn</a> ·
+<a href="mailto:lanza_marinella@libero.it">📧 Email</a>
 </p>
 
 ---
 
-## About
+## 👩‍💻 About
 
-Full Stack Developer con focus su backend e sviluppo di applicazioni web.  
-Realizzo CRM, API REST e dashboard amministrative pensate per essere semplici da usare, scalabili e manutenibili.
+Sono una Full Stack Developer specializzata nello sviluppo di applicazioni web e backend scalabili.  
+Realizzo CRM, API REST e dashboard amministrative per aziende e professionisti.
 
----
-
-## Stack
-
-- PHP / Laravel  
-- Node.js  
-- React  
-- MySQL  
-- Docker  
-- REST API  
+✔️ Codice pulito  
+✔️ Strutture scalabili  
+✔️ Soluzioni pratiche  
 
 ---
 
-## Projects
+## 🛠️ Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,js,mysql,docker" />
+</p>
+
+---
+
+## 🚀 Progetti
 
 ### CRM API Laravel  
-Backend REST per la gestione di clienti e aziende, con struttura scalabile e pronta per integrazione frontend.  
-→ https://github.com/mlanza683/crm-api-laravel  
+Backend REST per gestione clienti, aziende e dashboard  
+👉 https://github.com/mlanza683/crm-api-laravel  
 
 ---
 
 ### Badge System SaaS  
-Sistema per la gestione presenze con QR code, dashboard e logiche operative aziendali.  
-→ https://github.com/mlanza683/badge-system-saas  
+Sistema presenze con QR code e dashboard  
+👉 https://github.com/mlanza683/badge-system-saas  
 
 ---
 
 ### Portfolio  
-Mini sito professionale sviluppato con GitHub Pages.  
-→ https://mlanza683.github.io  
+👉 https://mlanza683.github.io  
 
 ---
 
-## Work
+## 🤝 Collaborazioni
 
 Disponibile per:
 
-- progetti freelance  
+- freelance  
 - collaborazioni  
 - opportunità lavorative  
 
 ---
 
-## Contact
+## 📫 Contatti
 
 - Email: lanza_marinella@libero.it  
 - LinkedIn: linkedin.com/in/marinella-l-0563414b  
@@ -69,5 +74,5 @@ Disponibile per:
 ---
 
 <p align="center">
-If you have a project, feel free to reach out.
+⭐ Se ti interessa lavorare insieme, scrivimi!
 </p>
