@@ -8,11 +8,33 @@
 Building scalable web applications · Laravel · Node.js · React
 </p>
 
+---
+
 <p align="center">
-<a href="https://mlanza683.github.io">🌐 Portfolio</a> ·
-<a href="https://github.com/mlanza683">💻 GitHub</a> ·
-<a href="https://www.linkedin.com/in/marinella-l-0563414b/">💼 LinkedIn</a> ·
-<a href="mailto:lanza_marinella@libero.it">📧 Email</a>
+  <a href="https://mlanza683.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/mlanza683">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/marinella-l-0563414b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lanza_marinella@libero.it">
+    <img src="https://img.shields.io/badge/Email-22c55e?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,js,ts,mysql,postgres,docker,git,github,linux,vscode" />
+</p>
+
+<p align="center">
+Backend · API REST · Database · DevOps · Web Apps
 </p>
 
 ---
@@ -29,14 +51,6 @@ Mi concentro su soluzioni **scalabili, chiare e realmente utili** per aziende e 
 ✔️ Backend solidi e modulari  
 ✔️ Dashboard semplici e funzionali  
 ✔️ Integrazione API e sistemi  
-
----
-
-## 🛠️ Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,js,mysql,docker" />
-</p>
 
 ---
 
