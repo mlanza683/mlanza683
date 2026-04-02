@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071018,100:22c55e&height=120&section=header&text=Marinella%20Lanza&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071018,100:22c55e&height=140&section=header&text=Marinella%20Lanza&fontSize=34&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h2 align="center">Full Stack Developer</h2>
 
 <p align="center">
-Laravel · Node.js · React · API REST · CRM · Dashboard
+Building scalable web applications · Laravel · Node.js · React
 </p>
 
 <p align="center">
@@ -19,12 +19,16 @@ Laravel · Node.js · React · API REST · CRM · Dashboard
 
 ## 👩‍💻 About
 
-Full Stack Developer con focus su backend e sviluppo di applicazioni web.  
-Realizzo soluzioni concrete: CRM, API REST e dashboard per aziende e professionisti.
+Sviluppo applicazioni web, CRM e API REST con un approccio pratico e orientato al risultato.  
+Mi concentro su soluzioni **scalabili, chiare e realmente utili** per aziende e professionisti.
 
-✔️ Codice pulito  
-✔️ Strutture scalabili  
-✔️ Approccio pratico  
+---
+
+## ⚡ Focus
+
+✔️ Backend solidi e modulari  
+✔️ Dashboard semplici e funzionali  
+✔️ Integrazione API e sistemi  
 
 ---
 
@@ -36,36 +40,26 @@ Realizzo soluzioni concrete: CRM, API REST e dashboard per aziende e professioni
 
 ---
 
-## 🚀 Cosa faccio
+## 🚀 Projects
 
-- CRM personalizzati  
-- API REST scalabili  
-- Dashboard amministrative  
-- Sistemi gestionali aziendali  
-- Applicazioni web responsive  
-
----
-
-## 📌 Progetti
-
-🔹 **CRM API Laravel**  
-Backend REST per gestione clienti e aziende  
+### CRM API Laravel  
+Backend REST per gestione clienti e aziende con struttura scalabile  
 → https://github.com/mlanza683/crm-api-laravel  
 
 ---
 
-🔹 **Badge System SaaS**  
-Sistema presenze con QR Code e dashboard  
+### Badge System SaaS  
+Sistema gestione presenze con QR code e dashboard  
 → https://github.com/mlanza683/badge-system-saas  
 
 ---
 
-🔹 **Portfolio**  
+### Portfolio  
 → https://mlanza683.github.io  
 
 ---
 
-## 🤝 Collaborazioni
+## 🤝 Work with me
 
 Disponibile per:
 
@@ -76,5 +70,5 @@ Disponibile per:
 ---
 
 <p align="center">
-  ⭐ Se hai un progetto, scrivimi!
+  ⭐ If you have a project, let’s talk
 </p>
