@@ -30,11 +30,11 @@ Building scalable web applications · Laravel · Node.js · React
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,lumennodejs,react,js,ts,mysql,docker,git,github,vscode,html,css,bootstrap,redis,swagger,wordpress,woocommerce" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,lumen,nodejs,react,js,ts,mysql,postgres,docker,git,github,linux,vscode" />
 </p>
 
 <p align="center">
-Backend · API REST · Database · DevOps · Web Applications
+Backend · API REST · Microservices · Database · DevOps
 </p>
 
 ---
