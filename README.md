@@ -15,16 +15,16 @@ Building scalable web applications · Laravel · Node.js · React
     <img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/mlanza683">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/marinella-l-0563414b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:lanza_marinella@libero.it">
-    <img src="https://img.shields.io/badge/Email-22c55e?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.addlance.com/profili/marinella-lanza/web-designer/cinisello-balsamo/MTA2OTk2">
-    <img src="https://img.shields.io/badge/AddLance-22c55e?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/AddLance-FF7A00?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
