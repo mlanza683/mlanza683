@@ -23,6 +23,9 @@ Building scalable web applications · Laravel · Node.js · React
   <a href="mailto:lanza_marinella@libero.it">
     <img src="https://img.shields.io/badge/Email-22c55e?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.addlance.com/profili/marinella-lanza/web-designer/cinisello-balsamo/MTA2OTk2">
+    <img src="https://img.shields.io/badge/AddLance-22c55e?style=for-the-badge&logoColor=white" />
+  </a>
 </p>
 
 ---
