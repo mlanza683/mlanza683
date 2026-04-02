@@ -60,9 +60,16 @@ Mi concentro su soluzioni **scalabili, chiare e realmente utili** per aziende e 
 Backend REST per gestione clienti e aziende con struttura scalabile  
 
 <p align="center">
-  <img src="Authorizations-Sanctum.png" width="260" height="160" style="object-fit: cover; border-radius:10px; margin:5px;"/>
-  <img src="clients-list.png" width="260" height="160" style="object-fit: cover; border-radius:10px; margin:5px;"/>
-  <img src="swagger-ui.png" width="260" height="160" style="object-fit: cover; border-radius:10px; margin:5px;"/>
+  <a href="https://github.com/mlanza683/crm-api-laravel">
+    <img src="Authorizations-Sanctum.png" width="700"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mlanza683/crm-api-laravel">
+    <img src="clients-list.png" width="340"/>
+    <img src="swagger-ui.png" width="340"/>
+  </a>
 </p>
 
 👉 https://github.com/mlanza683/crm-api-laravel  
@@ -73,9 +80,16 @@ Backend REST per gestione clienti e aziende con struttura scalabile
 Sistema gestione presenze con QR code e dashboard  
 
 <p align="center">
-  <img src="Login-react.png" width="260" height="160" style="object-fit: cover; border-radius:10px; margin:5px;"/>
-  <img src="dashboard.png" width="260" height="160" style="object-fit: cover; border-radius:10px; margin:5px;"/>
-  <img src="users.png" width="260" height="160" style="object-fit: cover; border-radius:10px; margin:5px;"/>
+  <a href="https://github.com/mlanza683/badge-system-saas">
+    <img src="dashboard.png" width="700"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mlanza683/badge-system-saas">
+    <img src="Login-react.png" width="340"/>
+    <img src="users.png" width="340"/>
+  </a>
 </p>
 
 👉 https://github.com/mlanza683/badge-system-saas  
