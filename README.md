@@ -59,14 +59,10 @@ Mi concentro su soluzioni **scalabili, chiare e realmente utili** per aziende e 
 ### 🔹 CRM API Laravel  
 Backend REST per gestione clienti e aziende con struttura scalabile  
 
-<p align="left">
-  <img src="Authorizations-Sanctum.png" width="500"/>
-</p>
 <p align="center">
-  <img src="clients-list.png" width="500"/>
-</p>
-<p align="right">
-  <img src="swagger-ui.png" width="500"/>
+  <img src="Authorizations-Sanctum.png" width="250"/>
+   <img src="swagger-ui.png" width="250"/>
+  <img src="clients-list.png" width="250"/>
 </p>
 
 👉 https://github.com/mlanza683/crm-api-laravel  
@@ -76,14 +72,10 @@ Backend REST per gestione clienti e aziende con struttura scalabile
 ### 🔹 Badge System SaaS  
 Sistema gestione presenze con QR code e dashboard  
 
-<p align="left">
-  <img src="Login-react.png" width="700"/>
-</p>
 <p align="center">
-  <img src="dashboard.png" width="700"/>
-</p>
-<p align="right">
-  <img src="users.png" width="700"/>
+  <img src="Login-react.png" width="250"/>
+  <img src="dashboard.png" width="250"/>
+  <img src="users.png" width="250"/>
 </p>
 
 👉 https://github.com/mlanza683/badge-system-saas  
