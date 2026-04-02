@@ -30,7 +30,7 @@ Building scalable web applications · Laravel · Node.js · React
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,js,ts,mysql,postgres,docker,git,github,linux,vscode,html,css,bootstrap,redis,swagger,wordpress,woocommerce" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,lumennodejs,react,js,ts,mysql,docker,git,github,vscode,html,css,bootstrap,redis,swagger,wordpress,woocommerce" />
 </p>
 
 <p align="center">
