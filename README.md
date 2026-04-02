@@ -61,14 +61,15 @@ Backend REST per gestione clienti e aziende con struttura scalabile
 
 <p align="center">
   <a href="https://github.com/mlanza683/crm-api-laravel">
-    <img src="Authorizations-Sanctum.png" width="700"/>
+    <img src="swagger-ui.png" width="700"/>
+    
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/mlanza683/crm-api-laravel">
+    <img src="Authorizations-Sanctum.png" width="340"/>
     <img src="clients-list.png" width="340"/>
-    <img src="swagger-ui.png" width="340"/>
   </a>
 </p>
 
@@ -100,7 +101,7 @@ Sistema gestione presenze con QR code e dashboard
 Mini sito professionale sviluppato con GitHub Pages  
 
 <p align="center">
-  <img src="portfolio.png" width="520" height="260" style="object-fit: cover; border-radius:10px;"/>
+  <img src="portfolio.png" width="700"/>
 </p>
 
 👉 https://mlanza683.github.io  
