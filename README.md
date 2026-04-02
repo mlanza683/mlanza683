@@ -74,10 +74,10 @@ Sistema gestione presenze con QR code e dashboard
   <img src="Login-react.png" width="700"/>
 </p>
 <p align="center">
-  <img src="./screens/dashboard.png" width="700"/>
+  <img src="dashboard.png" width="700"/>
 </p>
 <p align="center">
-  <img src="./screens/users.png" width="700"/>
+  <img src="users.png" width="700"/>
 </p>
 
 👉 https://github.com/mlanza683/badge-system-saas  
@@ -88,7 +88,7 @@ Sistema gestione presenze con QR code e dashboard
 Mini sito professionale sviluppato con GitHub Pages  
 
 <p align="center">
-  <img src="./screens/portfolio.png" width="700"/>
+  <img src="portfolio.png" width="700"/>
 </p>
 
 👉 https://mlanza683.github.io  
