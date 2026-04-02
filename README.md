@@ -60,7 +60,7 @@ Mi concentro su soluzioni **scalabili, chiare e realmente utili** per aziende e 
 Backend REST per gestione clienti e aziende con struttura scalabile  
 
 <p align="center">
-  <img src="./screens/crm-dashboard.png" width="700"/>
+  <img src="crm-dashboard.png" width="700"/>
 </p>
 
 👉 https://github.com/mlanza683/crm-api-laravel  
@@ -71,7 +71,7 @@ Backend REST per gestione clienti e aziende con struttura scalabile
 Sistema gestione presenze con QR code e dashboard  
 
 <p align="center">
-  <img src="./screens/Login-react.png" width="700"/>
+  <img src="Login-react.png" width="700"/>
 </p>
 <p align="center">
   <img src="./screens/dashboard.png" width="700"/>
