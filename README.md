@@ -1,85 +1,103 @@
-# Ciao, sono Marinella Lanza 👋
+<h1 align="center">Ciao, sono Marinella Lanza 👋</h1>
 
-**Full Stack Developer**  
-Specializzata in **PHP (Laravel)**, **Node.js**, **React** e **API REST**.  
-Sviluppo **CRM**, **dashboard amministrative** e **applicazioni web scalabili** per aziende e professionisti.
+<p align="center">
+  💻 Full Stack Developer • Laravel • Node.js • React <br/>
+  🚀 CRM • API REST • Dashboard • Applicazioni Web
+</p>
 
-🌐 Portfolio: [mlanza683.github.io](https://mlanza683.github.io)  
-💼 LinkedIn: [linkedin.com/in/marinella-l-0563414b](https://www.linkedin.com/in/marinella-l-0563414b/)  
-📧 Email: [lanza_marinella@libero.it](mailto:lanza_marinella@libero.it)
-
----
-
-## Chi sono
-
-Sono una sviluppatrice full stack con focus sul backend e sulla realizzazione di soluzioni web concrete, chiare e manutenibili.  
-Mi occupo di progettare applicazioni utili davvero: sistemi gestionali, API, dashboard e strumenti interni pensati per semplificare processi e migliorare l’operatività.
+<p align="center">
+  <a href="https://mlanza683.github.io">🌐 Portfolio</a> •
+  <a href="https://github.com/mlanza683">💻 GitHub</a> •
+  <a href="https://www.linkedin.com/in/marinella-l-0563414b/">💼 LinkedIn</a> •
+  <a href="mailto:lanza_marinella@libero.it">📧 Email</a>
+</p>
 
 ---
 
-## Stack principale
+## 🚀 Chi sono
 
-- PHP
-- Laravel
-- Node.js
-- React
-- JavaScript
-- MySQL
-- Docker
-- REST API
-- JWT / autenticazione
-- Dashboard amministrative
+Sono una Full Stack Developer specializzata nello sviluppo di applicazioni web e backend scalabili.  
+Realizzo soluzioni concrete per aziende e professionisti: CRM, dashboard e sistemi gestionali.
+
+✔️ Approccio pratico  
+✔️ Codice pulito e manutenibile  
+✔️ Focus su performance e scalabilità  
 
 ---
 
-## Cosa realizzo
+## 🛠️ Stack Tecnologico
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,js,mysql,docker" />
+
+</p>
+
+---
+
+## 💼 Cosa realizzo
 
 - CRM personalizzati
-- API REST per frontend e integrazioni
+- API REST scalabili
 - Dashboard amministrative
-- Sistemi gestionali per aziende
+- Sistemi gestionali aziendali
 - Applicazioni web responsive
-- Soluzioni su misura per flussi operativi
+- Soluzioni su misura
 
 ---
 
-## Progetti in evidenza
+## 📌 Progetti in evidenza
 
-### CRM API Laravel
-Backend REST sviluppato in Laravel per la gestione di clienti, aziende e processi interni, con struttura scalabile e autenticazione pronta per integrazione con frontend moderni.
+### 🔹 CRM API Laravel
+Backend REST per gestione clienti, aziende e processi aziendali.
 
-🔗 Repository: [crm-api-laravel](https://github.com/mlanza683/crm-api-laravel)
-
-### Badge System SaaS
-Sistema per la gestione presenze e badge con logiche operative, dashboard e flusso pensato per contesti aziendali.
-
-🔗 Repository: [badge-system-saas](https://github.com/mlanza683/badge-system-saas)
-
-### Portfolio GitHub Pages
-Mini portfolio online creato con GitHub Pages per presentare profilo, competenze e progetti.
-
-🔗 Sito: [mlanza683.github.io](https://mlanza683.github.io)
+👉 https://github.com/mlanza683/crm-api-laravel
 
 ---
 
-## Obiettivo
+### 🔹 Badge System SaaS
+Sistema gestione presenze con QR Code e dashboard.
+
+👉 https://github.com/mlanza683/badge-system-saas
+
+---
+
+### 🔹 Portfolio Online
+Mini sito professionale sviluppato con GitHub Pages.
+
+👉 https://mlanza683.github.io
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mlanza683&show_icons=true&theme=dark" />
+</p>
+
+---
+
+## 🤝 Collaborazioni
 
 Sono disponibile per:
 
-- collaborazioni freelance
-- sviluppo di progetti web su misura
-- opportunità professionali in azienda
+- 💼 Freelance
+- 🤝 Collaborazioni continuative
+- 🚀 Progetti web su misura
+- 🧑‍💻 Opportunità lavorative
 
 ---
 
-## Contatti
+## 📫 Contattami
 
-Se vuoi collaborare con me o parlarmi di un progetto:
-
-- 📧 Email: [lanza_marinella@libero.it](mailto:lanza_marinella@libero.it)
-- 💼 LinkedIn: [Marinella Lanza](https://www.linkedin.com/in/marinella-l-0563414b/)
-- 🌐 Portfolio: [mlanza683.github.io](https://mlanza683.github.io)
+<p align="center">
+  <a href="mailto:lanza_marinella@libero.it">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/marinella-l-0563414b/">💼 LinkedIn</a> •
+  <a href="https://mlanza683.github.io">🌐 Portfolio</a>
+</p>
 
 ---
 
-⭐ Grazie per aver visitato il mio profilo GitHub.
+<p align="center">
+  ⭐ Se ti interessa lavorare insieme, scrivimi!
+</p>
