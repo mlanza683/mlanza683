@@ -60,13 +60,13 @@ Mi concentro su soluzioni **scalabili, chiare e realmente utili** per aziende e 
 Backend REST per gestione clienti e aziende con struttura scalabile  
 
 <p align="left">
-  <img src="Authorizations-Sanctum.png" width="300"/>
+  <img src="Authorizations-Sanctum.png" width="500"/>
 </p>
 <p align="center">
-  <img src="clients-list.png" width="300"/>
+  <img src="clients-list.png" width="500"/>
 </p>
 <p align="right">
-  <img src="swagger-ui.png" width="300"/>
+  <img src="swagger-ui.png" width="500"/>
 </p>
 
 👉 https://github.com/mlanza683/crm-api-laravel  
