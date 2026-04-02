@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=200&section=header&text=Marinella%20Lanza&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071018,100:22c55e&height=120&section=header&text=Marinella%20Lanza&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h2 align="center">Full Stack Developer</h2>
@@ -19,39 +19,49 @@ Laravel · Node.js · React · API REST · CRM · Dashboard
 
 ## 👩‍💻 About
 
-Sono una Full Stack Developer specializzata nello sviluppo di applicazioni web e backend scalabili.  
-Realizzo CRM, API REST e dashboard amministrative per aziende e professionisti.
+Full Stack Developer con focus su backend e sviluppo di applicazioni web.  
+Realizzo soluzioni concrete: CRM, API REST e dashboard per aziende e professionisti.
 
 ✔️ Codice pulito  
 ✔️ Strutture scalabili  
-✔️ Soluzioni pratiche  
+✔️ Approccio pratico  
 
 ---
 
 ## 🛠️ Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,js,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,js,mysql,docker" />
 </p>
 
 ---
 
-## 🚀 Progetti
+## 🚀 Cosa faccio
 
-### CRM API Laravel  
-Backend REST per gestione clienti, aziende e dashboard  
-👉 https://github.com/mlanza683/crm-api-laravel  
-
----
-
-### Badge System SaaS  
-Sistema presenze con QR code e dashboard  
-👉 https://github.com/mlanza683/badge-system-saas  
+- CRM personalizzati  
+- API REST scalabili  
+- Dashboard amministrative  
+- Sistemi gestionali aziendali  
+- Applicazioni web responsive  
 
 ---
 
-### Portfolio  
-👉 https://mlanza683.github.io  
+## 📌 Progetti
+
+🔹 **CRM API Laravel**  
+Backend REST per gestione clienti e aziende  
+→ https://github.com/mlanza683/crm-api-laravel  
+
+---
+
+🔹 **Badge System SaaS**  
+Sistema presenze con QR Code e dashboard  
+→ https://github.com/mlanza683/badge-system-saas  
+
+---
+
+🔹 **Portfolio**  
+→ https://mlanza683.github.io  
 
 ---
 
@@ -65,14 +75,6 @@ Disponibile per:
 
 ---
 
-## 📫 Contatti
-
-- Email: lanza_marinella@libero.it  
-- LinkedIn: linkedin.com/in/marinella-l-0563414b  
-- Portfolio: mlanza683.github.io  
-
----
-
 <p align="center">
-⭐ Se ti interessa lavorare insieme, scrivimi!
+  ⭐ Se hai un progetto, scrivimi!
 </p>
