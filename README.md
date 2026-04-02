@@ -71,7 +71,13 @@ Backend REST per gestione clienti e aziende con struttura scalabile
 Sistema gestione presenze con QR code e dashboard  
 
 <p align="center">
-  <img src="./screens/badge-app.png" width="700"/>
+  <img src="./screens/Login-react.png" width="700"/>
+</p>
+<p align="center">
+  <img src="./screens/dashboard.png" width="700"/>
+</p>
+<p align="center">
+  <img src="./screens/users.png" width="700"/>
 </p>
 
 👉 https://github.com/mlanza683/badge-system-saas  
