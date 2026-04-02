@@ -61,15 +61,14 @@ Backend REST per gestione clienti e aziende con struttura scalabile
 
 <p align="center">
   <a href="https://github.com/mlanza683/crm-api-laravel">
-    <img src="swagger-ui.png" width="700"/>
-    
+      <img src="clients-list.png" width="700"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/mlanza683/crm-api-laravel">
     <img src="Authorizations-Sanctum.png" width="340"/>
-    <img src="clients-list.png" width="340"/>
+    <img src="swagger-ui.png" width="340"/>
   </a>
 </p>
 
